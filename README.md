@@ -2,8 +2,6 @@
 
 **PhiloAgents** is a simulation engine that brings history’s greatest philosophers to life using Large Language Models and agentic AI patterns. Built using **LangGraph**, **LangChain**, **FastAPI**, **Groq**, and **WebSockets**, it transforms static NPCs into dynamic, reasoning AI agents like Plato, Aristotle, and Turing.
 
-Created as part of a hands-on course in collaboration with **Decoding ML** and **The Neural Maze**, this project combines game development, LLM engineering, and agent simulation in a production-ready system.
-
 ---
 
 ## 🎮 What It Does
